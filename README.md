@@ -1,2 +1,2 @@
 # SaJanG
-Hello World,first all know who am i?
+Hello World,first of all know who am i?
